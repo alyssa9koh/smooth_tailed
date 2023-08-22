@@ -10,3 +10,9 @@
 - get higher accuracies
 - get phylo dataset stuff
 - re-scope project for anything to submit to bc of impending deadlines
+
+# various notes
+
+general step by step from 197:
+1. import all the stuff
+2. meow
