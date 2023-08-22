@@ -2,11 +2,8 @@
 
 # organization checklist
 
-- transfer dataset classes from 197 into jupyter:
-        - transfer fully supervised class
-        - transfer oracle standard triple loss class
-        - transfer taxa informed distance class
 - get phylo dataset started
+- figure out notebook pipeline for calc cluster: what other functions / classes do we need, and how do we organize those modules?
 
 # progress checklist
 
