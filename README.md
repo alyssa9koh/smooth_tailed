@@ -15,4 +15,11 @@
 
 general step by step from 197:
 1. import all the stuff
-2. meow
+2. initialize neural network classes
+3. initialize custom dataset class
+4. initialize train_pretrain function
+5. intialize hyperparameters
+6. load in the data and initialize dataloaders
+7. set up things for training: model, optimization, etc.
+8. actually train epochs
+9. store the data somehow
